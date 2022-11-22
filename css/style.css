@@ -1,0 +1,28 @@
+.igrca{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+h3{
+    text-align: center;
+    font-size: 2rem;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+  }
+
+.reklame{
+
+  width: 24%;
+  padding: 5px;
+}
+
+.naslov{
+  background-color: rgb(172, 243, 219);
+}
+
+body{
+  background-color: rgb(241, 178, 238);
+}
